@@ -1,13 +1,35 @@
 {
+    "title": "Test Scenarios for Time Span ISO function",
+    "descr": "longer description",
+    "notes": [],
     "github": {
         "account": "basecamphq",
         "repo": "jsTestingScenarios",
-        "filename": "timeSpanISO.json"
+        "codeToTestFilename": "getTimeSpanISO.js",
+        "codeToTestLanguage": "JavaScript",
+        "codeToTestKind": "function",
+        "scenarioArrayFilename": "timeSpanISO.json",
+        "notes": []
     },
     "postman": {
         "team": "grey-resonance-6420",
         "username": "bradlowry",
         "workspace": "jsCodeTesting",
         "collection": "Time Span ISO",
+        "notes": []
+    },
+    "data": {
+        "scenariosArray_NAME": "isoTimeSpanFunction_scenarioArray",
+        "scenarioElementTemplate": {
+            "index": -77777,
+            "title": "",
+            "descr": "",
+            "notes": [],
+            "testData": {
+                "startTimeISO": "",
+                "endTimeISO": ""
+            }
+        },
+        "scenarioArray": []
     }
 }
