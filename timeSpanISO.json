@@ -1,4 +1,13 @@
 {
-    "account": "basecamphq",
-    "repo": "jsTestingScenarios"
+    "github": {
+        "account": "basecamphq",
+        "repo": "jsTestingScenarios",
+        "filename": "timeSpanISO.json"
+    },
+    "postman": {
+        "team": "grey-resonance-6420",
+        "username": "bradlowry",
+        "workspace": "jsCodeTesting",
+        "collection": "Time Span ISO",
+    }
 }
